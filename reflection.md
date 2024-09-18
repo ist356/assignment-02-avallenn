@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+Overall, I feel that this assignment was a good review of what I learned in IST 256. I was having issues figuring out how to create the parse_packaging function because I kept trying to use split the second time and I couldn't because you can not use .split() on a list so I used the solutions as reference. I felt good about the calc_total_units function and the get_unit function. I also needed to be refreshed on how to open a file and needed to look at how to save in JSON format, which I learned is json.dump. This tool serializes an obj as a JSON formatted stream. I feel that I learned and relearned a lot through this assignment and it is starting to remind me of other things from IST 256.
